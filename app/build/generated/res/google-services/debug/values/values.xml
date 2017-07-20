@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">455370312974-bl5agaonfoo5o3efnm1fjse0rgjdthsb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cadastro-teste.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">455370312974</string>
+    <string name="google_api_key" translatable="false">AIzaSyB-z6Zsk8dXQ4bg1iGoKBw88zSXg0tlkzA</string>
+    <string name="google_app_id" translatable="false">1:455370312974:android:226ef58e8276a9b5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB-z6Zsk8dXQ4bg1iGoKBw88zSXg0tlkzA</string>
+    <string name="google_storage_bucket" translatable="false">cadastro-teste.appspot.com</string>
+    <string name="project_id" translatable="false">cadastro-teste</string>
+</resources>

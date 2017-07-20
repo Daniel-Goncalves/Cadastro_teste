@@ -1,0 +1,7 @@
+#Wed Jul 19 18:33:35 BRT 2017
+base.0=/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5e9ea877c90bbb4cb8725aa77249e5b4a2344de8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_73d0379b1880fc9657b1d4f5160b58d7244f0804/classes.dex
+base.1=/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_73d0379b1880fc9657b1d4f5160b58d7244f0804
+file.0=/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5e9ea877c90bbb4cb8725aa77249e5b4a2344de8/classes.dex

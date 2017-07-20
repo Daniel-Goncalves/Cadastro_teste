@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/daniel/.android/build-cache/a30cd20e6e3e878352885e3800693336c022eaeb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_181748528ea08da25f9e1116c396bc29700e1ac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/daniel/.android/build-cache/1e2b2d89874bef78bdc5ff642a2fa16f68b31146/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e17b9732cdd340518749c6f91383cd02cea6c542/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_73d0379b1880fc9657b1d4f5160b58d7244f0804/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/daniel/.android/build-cache/b79bab87934b140864b1cc6df7b8353645c9d53a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac01fbac891dfe8210db3a3ab37f4c8b1aae3353/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/daniel/.android/build-cache/658efdde816bee0e4fefca9062acce86d4899be0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_064ba7439395d7a38b7c927804ccbfb0ccdf70c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/daniel/.android/build-cache/4d71a2893ffae467882ed6eec38358a48f0c5214/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f361285c30d5f46965f926ff375173d891b18fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/daniel/.android/build-cache/93eb6e138556c80ecb97be5750c9e357a992dabc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5df8ffc830eed3d572873f4c9e99b85642c2276b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/daniel/.android/build-cache/ff45e833d5f93d5ecf3ebc20d27e1c24181eb445/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6bcdb29e28016f70fee3e7daf042b301f11aa7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fb645de92121b1353c849fa0d741c79241058dc3">
+        <dex dex="/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5e9ea877c90bbb4cb8725aa77249e5b4a2344de8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/daniel/.android/build-cache/824edcaa13927524fcce2e0edfa3a4a6f4b55250/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a37634962ce0c51bbc0264f61b84a2ebae18cf5e/classes.dex" />
+    </item>
+
+</items>

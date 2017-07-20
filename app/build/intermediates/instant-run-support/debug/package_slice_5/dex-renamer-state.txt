@@ -1,0 +1,4 @@
+#Thu Jul 20 10:38:57 BRT 2017
+base.0=/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/home/daniel/AndroidStudioProjects/Cadastro_teste/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

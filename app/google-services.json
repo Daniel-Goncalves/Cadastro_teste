@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "455370312974",
+    "firebase_url": "https://cadastro-teste.firebaseio.com",
+    "project_id": "cadastro-teste",
+    "storage_bucket": "cadastro-teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455370312974:android:226ef58e8276a9b5",
+        "android_client_info": {
+          "package_name": "engnetconsultoria.cadastro_teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455370312974-pfgeq9n3l3ppd4mllfvi2oiui2dvu5o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "engnetconsultoria.cadastro_teste",
+            "certificate_hash": "33bbc8e6678b80702673ee2075e7dd3feaec41cf"
+          }
+        },
+        {
+          "client_id": "455370312974-bl5agaonfoo5o3efnm1fjse0rgjdthsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-z6Zsk8dXQ4bg1iGoKBw88zSXg0tlkzA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455370312974-bl5agaonfoo5o3efnm1fjse0rgjdthsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

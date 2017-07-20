@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="engnetconsultoria.cadastro_teste.MainActivity">
+
+    <EditText
+        android:id="@+id/emailID"
+        android:layout_width="269dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="22dp"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        app:layout_constraintTop_toBottomOf="@+id/nameID"
+        tools:layout_editor_absoluteX="18dp"
+        tools:text="Email" />
+
+    <EditText
+        android:id="@+id/nameID"
+        android:layout_width="276dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:singleLine="true"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="14dp"
+        tools:text="Name" />
+
+    <Button
+        android:id="@+id/cadastro_button"
+        android:layout_width="191dp"
+        android:layout_height="54dp"
+        android:text="@string/submit"
+        tools:layout_editor_absoluteX="57dp"
+        android:layout_marginTop="47dp"
+        app:layout_constraintTop_toBottomOf="@+id/emailID" />
+
+    <TextView
+        android:id="@+id/cadastro_concluido"
+        android:layout_width="288dp"
+        android:layout_height="70dp"
+        android:paddingEnd="20dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="20dp"
+        android:paddingTop="20dp"
+        android:text="Cadastro não realizado"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="37dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintTop_toBottomOf="@+id/cadastro_button" />
+
+</android.support.constraint.ConstraintLayout>
